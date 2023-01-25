@@ -1,9 +1,10 @@
 import HeaderNav from "./components/HeaderNav"
+import AppRoutes from "./routes"
 
 function App() {
   return (
     <>
-      <HeaderNav /> 
+      <AppRoutes />
     </>
   )
 }
